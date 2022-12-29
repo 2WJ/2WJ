@@ -11,6 +11,17 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
 </p>
 
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2WJ&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=2WJ&show_icons=true">
+</p>
+
+</div>
+
+
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/Devlog-11B48A?style=flat-square&logo=Tistory&logoColor=white&link="/></a>&nbsp
@@ -18,11 +29,6 @@
   <a href="mailto:"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-
-[![WJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=2WJ&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2WJ&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
